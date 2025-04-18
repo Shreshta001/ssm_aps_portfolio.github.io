@@ -1,6 +1,6 @@
 ## 🚀 DevQuest
 
-> *"Driven to Elevate Visions through a quest of innovation, creation, and exploration."*
+> **D**riven to **E**levate **V**isions through a **Q**uest of innovation, creation, and exploration.
 
 ---
 ## 🧾 Portfolio Details
@@ -54,35 +54,19 @@
 
 ---
 
-### 🧠 AI-Generated Face Detection *(Feb 2025)*  
+### 🧠 AI-Generated Face Detection using RvAI Classifier *(Feb 2025)*  
 **Tech:** `Machine Learning`, `Deep Learning`, `RvAI Toolkit`  
 - Developed a classifier to detect AI-generated human faces.  
 - Presented at **CRM 2025** conference and **published by Springer**.
 
 ---
 
-
-> **D**riven to **E**levate **V**isions through a **Q**uest of innovation, creation, and exploration.
-
----
-
-### 🔗 Explore the DevQuest Chapters:
-
-1. [Overview](#overview) – Welcome to the mission 🚀  
-2. [Vision & Goals](#vision-and-goals) – Mapping the quest ahead 🎯  
-3. [🔍 Real-World Problems → Algorithmic Intelligence](#real-world-use-cases--algorithmic-solutions)  
-4. [Performance Snapshots](#efficiency-metrics-and-insights) – How smart are the solutions? 📊  
-5. [What I Discovered](#reflections-and-takeaways) – Learnings from the algorithmic adventure 🧠  
-
----
-
 ## 🧭 Overview
-
 <p align="center">
- 
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Productivity_App_Icons_01.max-1000x1000.png" alt="Google Ecosystem Overview" width="700"/>
   <br>
-  [5] Glimpse into Google's Massive Service Ecosystem
-</p><br>
+  <em>🧭 Glimpse into Google's Massive Service Ecosystem</em>
+</p>
 
 
 ### 🌐 **Why Google?**
@@ -308,9 +292,6 @@ Used **Edit Distance (Levenshtein)** and **Trie** for spelling correction and su
 - **Trie:** O(L) where `L = word length`
 
 ---
-
-> These are real examples of DSA and APS powering billion-scale systems. 💪  
-> Use these insights to connect your coursework with world-class engineering challenges!
 
 
 
