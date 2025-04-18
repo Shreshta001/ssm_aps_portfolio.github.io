@@ -145,54 +145,122 @@ With each use case, we dive into:
 
 ## 💼 Business Case Studies powered by DevQuest
 
-This portfolio ties theoretical concepts from **Data Structures & Algorithms (DSA)** and **Algorithmic Problem Solving (APS)** with real Google challenges — converting academic logic into business impact. For each case study, we cover:
+# 📊 Real-World Business Case Studies from Google using DSA & APS
 
-- ⚙️ **Problem background & scale**  
-- 🔍 **Applied algorithms/data structures**  
-- 📊 **Efficiency & trade‑offs**  
-- 🚀 **Result‑driven improvements**
+These case studies demonstrate how Google leverages **Data Structures and Algorithms (DSA)** and **Algorithmic Problem Solving (APS)** to solve real-world, large-scale challenges.
 
 ---
 
-### 🎯 <span style="color:#4285F4">1. DeepMind AI for Data Center Cooling</span>  
-- **⚙️ Problem** – Google’s data centers burned huge energy to stay cool, hiking costs and emissions.  
-- **🔍 Applied** – Reinforcement‑learning models forecast heat dynamics, tuning HVAC settings in real time.  
-- **📊 Efficiency** – ~40% cut in cooling energy, with minor compute overhead.  
-- **🚀 Result** – Major cost savings, slashed carbon footprint, new green‑cloud benchmark.
+## 1. 📺 YouTube Video Load Optimization Using Caching and LRU
+
+**Context:**  
+YouTube faced high latency during video buffering, especially in areas with poor internet.
+
+**Solution:**  
+Implemented **Least Recently Used (LRU)** caching at edge servers to store frequently accessed video chunks closer to users.
+
+**Algorithm Applied:**  
+- **LRU Cache:** Doubly linked list + HashMap → O(1) access and eviction
+
+**Benefits:**  
+- Faster video start times  
+- Reduced buffering  
+- Lower backbone traffic
+
+**Complexity:**  
+- **Time:** O(1) for get/put  
+- **Space:** O(capacity)
 
 ---
 
-### 🎯 <span style="color:#DB4437">2. Spotify Migration to Google Cloud Platform</span>  
-- **⚙️ Problem** – On‑prem servers couldn’t scale with Spotify’s explosive growth, throttling feature releases.  
-- **🔍 Applied** – Distributed pipelines (Pub/Sub, Dataflow, BigQuery) and smart data sharding.  
-- **📊 Efficiency** – Seamless handling of hundreds of PB; invest‑vs‑velocity trade‑off paid off.  
-- **🚀 Result** – Faster updates, rock‑solid reliability for 250 M+ users, freed dev teams for innovation.
+## 2. 🖼️ Google Photos Duplicate Image Detection Using Hashing & Union-Find
+
+**Context:**  
+Needed efficient detection and management of duplicate uploads across user albums.
+
+**Solution:**  
+Used **Perceptual Hashing** and **Union-Find** to cluster similar images.
+
+**Algorithms Applied:**  
+- **Hashing:** Quick image signatures  
+- **Union-Find (Disjoint Set):** Grouping similar images
+
+**Benefits:**  
+- Reduced storage  
+- Better search performance
+
+**Complexity:**  
+- **Hashing:** O(1) avg  
+- **Union-Find:** Nearly O(1) with path compression
 
 ---
 
-### 🎯 <span style="color:#F4B400">3. Googlenomics: Generalized Second‑Price Auction</span>  
-- **⚙️ Problem** – Early ad auctions delivered poor pricing and relevance.  
-- **🔍 Applied** – Generalized second‑price auction + Quality Score, using priority queues & ranking algos.  
-- **📊 Efficiency** – Balanced auction complexity against real‑time bid speed.  
-- **🚀 Result** – Higher ad relevance, CTR boost, tens of billions in annual AdWords revenue.
+## 3. 🔍 Google Ads Keyword Matching Using Trie & Backtracking
+
+**Context:**  
+Efficiently match billions of queries with advertiser keywords including wildcard support.
+
+**Solution:**  
+Used **Trie** for prefix matching + **Backtracking** for wildcard support.
+
+**Algorithms Applied:**  
+- **Trie:** Fast prefix storage and lookup  
+- **Backtracking:** Explore partial/wildcard matches
+
+**Benefits:**  
+- Accurate keyword targeting  
+- Higher click-through rates
+
+**Complexity:**  
+- **Trie:** O(L) where L = keyword length  
+- **Backtracking:** Optimized with pruning
 
 ---
 
-### 🎯 <span style="color:#0F9D58">4. Google Crisis Response</span>  
-- **⚙️ Problem** – Disaster info scattered across sites, slowing relief efforts.  
-- **🔍 Applied** – Unified data ingest, geospatial indexing, real‑time alerting in Search & Maps.  
-- **📊 Efficiency** – Instant, trusted updates vs. integration overhead.  
-- **🚀 Result** – Centralized Person Finder, Public/SOS Alerts & Crisis Maps—helped millions in Haiti, Tōhoku, wildfires & floods.
+## 4. 🎥 Google Meet Video Quality Control Using Dynamic Programming
+
+**Context:**  
+Maintain good video quality during varying network conditions.
+
+**Solution:**  
+Used **Dynamic Programming** (similar to **Knapsack Problem**) to choose optimal video resolution under bandwidth constraints.
+
+**Algorithm Applied:**  
+- **DP Optimization:** Choose best bitrate/resolution combination
+
+**Benefits:**  
+- Stable video on poor connections  
+- Smart bandwidth use
+
+**Complexity:**  
+- **Time:** O(nW), where `n = levels`, `W = bandwidth`
 
 ---
 
-### 🎯 <span style="color:#AB47BC">5. Google Photos: Tackling AI Bias</span>  
-- **⚙️ Problem** – Misclassification of Black faces as “gorillas” revealed model bias.  
-- **🔍 Applied** – Expanded training set diversity, fairness‑aware metrics, active learning loops.  
-- **📊 Efficiency** – Extra labeling cost vs. robust, equitable recognition.  
-- **🚀 Result** – Removed biased labels, boosted model accuracy across demographics, reinforced Google’s AI ethics.
+## 5. 🔠 Google Search Autocorrect Using Edit Distance & Trie
+
+**Context:**  
+Fix misspelled queries and suggest the right search terms in real-time.
+
+**Solution:**  
+Used **Edit Distance (Levenshtein)** and **Trie** for spelling correction and suggestions.
+
+**Algorithms Applied:**  
+- **Edit Distance:** Minimum edit transformation  
+- **Trie:** Efficient word suggestions from dictionary
+
+**Benefits:**  
+- Accurate autocorrect  
+- Improved search UX
+
+**Complexity:**  
+- **Edit Distance:** O(mn), where `m` and `n` are word lengths  
+- **Trie:** O(L) where `L = word length`
 
 ---
+
+> These are real examples of DSA and APS powering billion-scale systems. 💪  
+> Use these insights to connect your coursework with world-class engineering challenges!
 
 
 
