@@ -107,69 +107,45 @@ And what powers this massive ecosystem? 🤯
 - **Google Classroom** 🎓 – Organize classes, assignments, and grades easily.
 
 ---
-<div style="font-family: 'Segoe UI', sans-serif; max-width: 800px; margin: auto; padding: 2rem; color: #1f1f1f; line-height: 1.7; background-color: #fff;">
+## ⚙️ Why DSA & Algorithmic Problem Solving Matter
 
-  <h2 style="font-size: 2rem; color: #007acc; border-bottom: 2px solid #e0e0e0; padding-bottom: 0.5rem;">
-    ⚙️ Why DSA & Algorithmic Problem Solving Matter
-  </h2>
+Writing code that works is one thing. Writing code that works fast, scales effortlessly, and handles complexity with elegance — that’s what sets top engineering apart. That’s where **Data Structures & Algorithms (DSA)** and **Algorithmic Problem Solving (APS)** come into play.
 
-  <p>
-    Writing code that works is one thing. Writing code that works <strong>fast</strong>, scales effortlessly, and handles complexity with elegance — that’s what sets top engineering apart.
-    That’s where <strong>Data Structures & Algorithms (DSA)</strong> and <strong>Algorithmic Problem Solving (APS)</strong> come into play.
-  </p>
+---
 
-  <hr style="margin: 2rem 0;" />
+### Engineering at Scale: The Google Mindset
 
-  <h3 style="font-size: 1.5rem; color: #333;">Engineering at Scale: The Google Mindset</h3>
-  <p>Building for billions requires algorithmic thinking at every step. Some examples from Google’s ecosystem:</p>
+Building for billions requires algorithmic thinking at every step. Some examples from Google’s ecosystem:
 
-  <h4 style="color: #007acc;">🔍 Search</h4>
-  <p>
-    Manages over <strong>80%</strong> of the global search load. Fast and relevant results rely on optimized query parsing,
-    smart indexing (tries, inverted indices), and ranking algorithms. APS helps handle intent ambiguity and large-scale data retrieval.
-  </p>
+### 🔍 Search  
+Manages over 80% of the global search load. Fast and relevant results rely on optimized query parsing, smart indexing (tries, inverted indices), and ranking algorithms. APS helps handle intent ambiguity and large-scale data retrieval.
 
-  <h4 style="color: #007acc;">📺 YouTube</h4>
-  <p>
-    Over <strong>2 billion</strong> monthly users, and more than a billion watch hours per day.
-    Behind the scenes: neural nets, collaborative filtering, and graph-based algorithms that personalize recommendations in real time.
-  </p>
+### 📺 YouTube  
+Over 2 billion monthly users, and more than a billion watch hours per day. Behind the scenes: neural nets, collaborative filtering, and graph-based algorithms that personalize recommendations in real time.
 
-  <h4 style="color: #007acc;">📧 Gmail</h4>
-  <p>
-    Processes emails for <strong>1.8 billion</strong> users. Efficient spam detection, priority inbox sorting, and smart reply suggestions
-    are all powered by Bayesian filters, classifiers, and well-optimized data pipelines.
-  </p>
+### 📧 Gmail  
+Processes emails for 1.8 billion users. Efficient spam detection, priority inbox sorting, and smart reply suggestions are all powered by Bayesian filters, classifiers, and well-optimized data pipelines.
 
-  <h4 style="color: #007acc;">🗺️ Maps</h4>
-  <p>
-    Used by more than a billion users. Real-time traffic updates and accurate routing depend on shortest path algorithms (like Dijkstra and A*)
-    and dynamic updates, all solved through APS techniques.
-  </p>
+### 🗺️ Maps  
+Used by more than a billion users. Real-time traffic updates and accurate routing depend on shortest path algorithms (like Dijkstra and A*) and dynamic updates, all solved through APS techniques.
 
-  <h4 style="color: #007acc;">☁️ Google Cloud</h4>
-  <p>
-    Serves <strong>9%</strong> of the global cloud market. Systems use load balancing, data sharding, and fault-tolerant architectures,
-    all of which depend on solid DSA and performance-aware design patterns.
-  </p>
+### ☁️ Google Cloud  
+Serves 9% of the global cloud market. Systems use load balancing, data sharding, and fault-tolerant architectures, all of which depend on solid DSA and performance-aware design patterns.
 
-  <hr style="margin: 2rem 0;" />
+---
 
-  <h3 style="font-size: 1.5rem; color: #333;">Beyond Interviews: Building Better Systems</h3>
-  <p>DSA and APS are not just for cracking interviews — they are core to building tech that:</p>
-  <ul style="padding-left: 1.5rem;">
-    <li>Scales under load</li>
-    <li>Performs consistently</li>
-    <li>Handles edge cases cleanly</li>
-    <li>Solves real-world complexity with clarity</li>
-  </ul>
+### Beyond Interviews: Building Better Systems
 
-  <blockquote style="margin: 2rem 0; padding: 1rem 1.5rem; background-color: #f5faff; border-left: 4px solid #007acc; font-style: italic;">
-    Clean code solves problems. Smart code solves them efficiently.
-  </blockquote>
+DSA and APS are not just for cracking interviews — they are core to building tech that:
 
-</div>
+- Scales under load  
+- Performs consistently  
+- Handles edge cases cleanly  
+- Solves real-world complexity with clarity  
 
+---
+
+> Clean code solves problems. Smart code solves them efficiently.
 
 ## 💼 Business Case Studies powered by DevQuest
 
