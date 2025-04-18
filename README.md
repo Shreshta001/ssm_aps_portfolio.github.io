@@ -107,38 +107,41 @@ And what powers this massive ecosystem? 🤯
 - **Google Classroom** 🎓 – Organize classes, assignments, and grades easily.
 
 ---
-## 🌟 The Power of Algorithms Behind Google
+## ⚙️ Why DSA & Algorithmic Problem Solving Matter
 
-Let’s look into how algorithmic thinking makes these services robust:
-
-### Google Search  
-Handles **81.95%** of the global search traffic. Optimization in query parsing, ranking, and indexing is crucial to keep results lightning fast and relevant.
-
-### YouTube  
-With over **2 billion** monthly users, recommendation systems powered by collaborative filtering and neural nets drive **1B+ hours of watch time daily**.
-
-### Gmail  
-Serving **1.8 billion** users, it uses priority inbox algorithms, spam filters (Bayesian models), and security protocols to deliver reliable, fast mail.
-
-### Maps  
-Real-time traffic routing, ETA prediction, and geo-query optimizations help guide over **1 billion** users, contributing to a projected value of **$34.56B** by 2025.
-
-### Google Cloud  
-With **9%** of the global cloud share, performance and scalability rely on algorithms for load balancing, data sharding, and ML optimization.
+Writing code that works is one thing. Writing code that works fast, scales effortlessly, and handles complexity with elegance — that’s what sets top engineering apart. That’s where **Data Structures & Algorithms (DSA)** and **Algorithmic Problem Solving (APS)** come into play.
 
 ---
 
-## 🧩 Real-World Use Cases → Algorithmic Solutions
+### Engineering at Scale: The Google Mindset
 
-This portfolio ties theoretical concepts from **Data Structures & Algorithms (DSA)** and **Algorithmic Problem Solving (APS)** with real Google challenges — converting academic logic into business impact.
+Building for billions requires algorithmic thinking at every step. Some examples from Google’s ecosystem:
 
-With each use case, we dive into:
+### 🔍 Search  
+Manages over 80% of the global search load. Fast and relevant results rely on optimized query parsing, smart indexing (tries, inverted indices), and ranking algorithms. APS helps handle intent ambiguity and large-scale data retrieval.
 
-- Problem background and scale  
-- Applied data structures or algorithms  
-- Time-space tradeoffs  
-- Efficiency and practicality  
-- Result-driven improvements
+### 📺 YouTube  
+Over 2 billion monthly users, and more than a billion watch hours per day. Behind the scenes: neural nets, collaborative filtering, and graph-based algorithms that personalize recommendations in real time.
+
+### 📧 Gmail  
+Processes emails for 1.8 billion users. Efficient spam detection, priority inbox sorting, and smart reply suggestions are all powered by Bayesian filters, classifiers, and well-optimized data pipelines.
+
+### 🗺️ Maps  
+Used by more than a billion users. Real-time traffic updates and accurate routing depend on shortest path algorithms (like Dijkstra and A*) and dynamic updates, all solved through APS techniques.
+
+### ☁️ Google Cloud  
+Serves 9% of the global cloud market. Systems use load balancing, data sharding, and fault-tolerant architectures, all of which depend on solid DSA and performance-aware design patterns.
+
+---
+
+### Beyond Interviews: Building Better Systems
+
+DSA and APS are not just for cracking interviews — they are core to building tech that:
+
+- Scales under load  
+- Performs consistently  
+- Handles edge cases cleanly  
+- Solves real-world complexity with clarity  
 
 ---
 
