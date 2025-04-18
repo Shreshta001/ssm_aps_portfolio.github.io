@@ -6,7 +6,7 @@
 
 ### 🧾 **Portfolio Details**
 
-```yaml
+
 🔰 Course Name     : *Algorithmic Problem Solving*
 🆔 Course Code     : *24ECSE309*
 👩‍🎓 Student        : *Shreshta S. Majalikar*
