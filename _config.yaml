@@ -1,4 +1,25 @@
-title:DevQuest
-description:Discover 
-theme:jekyll-theme-cayman
+# _config.yaml
 
+title: "🚀 DevQuest"
+description: "Driven to Elevate Visions through a quest of innovation, creation, and exploration."
+theme: jekyll-theme-cayman
+
+# Optional: Show your GitHub repository link in top right corner
+github:
+  is_project_page: false  # set true if you want the GitHub link on top
+
+# Author info (optional)
+author: Shreshta S. Majalikar
+
+# Social metadata (optional but nice)
+url: "https://ssm_aps_portfolio.github.io" # replace with your actual GitHub Pages site URL
+baseurl: "" # keep empty unless deploying to a subdirectory
+
+# Optional custom settings (Cayman doesn't require these, but just in case)
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Enable the jekyll-seo-tag plugin if using SEO features
+plugins:
+  - jekyll-seo-tag
