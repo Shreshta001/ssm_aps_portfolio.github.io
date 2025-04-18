@@ -299,5 +299,20 @@ Used **Edit Distance (Levenshtein)** and **Trie** for spelling correction and su
 ---
 
 
+## Hi, I’m <mark style="background-color:#ff66b2;">Shreya Inamdar</mark>
+
+I'm a developer based in <mark style="background-color:#ffee58;">Pune, India</mark>.  
+I’ve been studying <span style="background-color:#ccffcc; padding:2px;">Computer Vision</span>,  
+<span style="background-color:#ccffcc; padding:2px;">Machine Learning</span>, and  
+<span style="background-color:#d1c4e9; padding:2px;">Deep Learning</span>.
+
+I code in:
+- <span style="background-color:#90caf9;">Python</span>
+- <span style="background-color:#ffca28;">JavaScript</span>
+- <span style="background-color:#80cbc4;">C</span>
+- <span style="background-color:#f48fb1;">C++</span>
+
+
+
 
 > 👣 **Let DevQuest continue...** Stay tuned for deeper case studies and solutions in this exploration of how algorithms quietly shape the tech we rely on daily.
