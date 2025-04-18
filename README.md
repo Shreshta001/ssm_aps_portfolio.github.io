@@ -15,6 +15,43 @@
 **🏛️ University**      : **KLE Technological University, Hubballi** <br/>
 
 
+## 🛠️ Technical Skills
+
+- **Languages & Frameworks**: C/C++, Python, JavaScript, React.js, Next.js, Node.js, Express.js  
+- **Databases**: MySQL  
+- **Tools**: Git, GitHub, VS Code
+
+---
+
+## 💼 Experience
+
+### 🧠 **NVIDIA – Mini Project Intern** *(Oct 2024 – Jan 2025, Remote)*  
+- Built a **multimodal transformer subsystem** for image difference estimation using **ViT** and **BDD100K**.  
+- Created a custom dataset using **Mini-InternVL VLM**, formulating ground truth via structured prompts.
+
+### 🚦 **NVIDIA – Minor Project Intern** *(Jan 2025 – Present, Remote)*  
+- Designing a **YOLOX-based traffic light detection system** to improve accuracy in autonomous vehicles.  
+- Evaluating demosaicing, white balance, and color shift effects using the **Bosch Small Traffic Lights Dataset**.
+
+---
+
+## 🧪 Projects
+
+### 🚏 NEXUS: Metropolitan Commute Optimizer *(Sep 2023 – Nov 2023)*  
+**Tech:** C++, Graph Algorithms  
+- Optimized city transport using **Dijkstra, Kruskal, Floyd-Warshall** for shortest paths and flow efficiency.
+
+### 📋 ISA Management System *(Dec 2024 – Jan 2025)*  
+**Tech:** ReactJS, Express, MySQL  
+- Auto-generated seating plans and question paper counts with options to export data to **CSV/HTML**.
+
+### 🧠 AI-Generated Face Detection *(Feb 2025)*  
+**Tech:** ML, DL, RvAI  
+- Trained a model to detect AI-generated faces; presented at **CRM 2025**, published by **Springer**.
+
+---
+
+
 
 > **D**riven to **E**levate **V**isions through a **Q**uest of innovation, creation, and exploration.
 
