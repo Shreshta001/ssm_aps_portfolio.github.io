@@ -16,7 +16,7 @@
 
 
 
-> **__D__riven to __E__levate __V__isions through a __Q__uest of innovation, creation, and exploration.**
+> **D**riven to **E**levate **V**isions through a **Q**uest of innovation, creation, and exploration.
 
 ---
 
