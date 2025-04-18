@@ -143,9 +143,7 @@ With each use case, we dive into:
 ---
 
 
-## 💼 Top 5 Google Business Case Studies
-
-## 💼 DevQuest Case Studies
+## 💼 Business Case Studies powered by DevQuest
 
 This portfolio ties theoretical concepts from **Data Structures & Algorithms (DSA)** and **Algorithmic Problem Solving (APS)** with real Google challenges — converting academic logic into business impact. For each case study, we cover:
 
@@ -156,63 +154,45 @@ This portfolio ties theoretical concepts from **Data Structures & Algorithms (DS
 
 ---
 
-<details>
-<summary>1. 🎯 <strong style="color:#4285F4">DeepMind AI for Data Center Cooling</strong></summary>
-
-- ⚙️ **Problem** – Google’s data centers were consuming massive energy to keep servers cool, driving up costs and carbon emissions.  
-- 🔍 **Applied algorithms/data structures** – Reinforcement‑learning models forecast thermal dynamics and adjust HVAC controls in real time.  
-- 📊 **Efficiency & trade‑offs** – Achieved ~40% reduction in cooling energy; slight compute‑time overhead outweighed by long‑term gains.  
-- 🚀 **Result** – Operational costs slashed, carbon footprint reduced, and a new standard set for sustainable cloud infrastructure.
-
-</details>
+### 🎯 <span style="color:#4285F4">1. DeepMind AI for Data Center Cooling</span>  
+- **⚙️ Problem** – Google’s data centers burned huge energy to stay cool, hiking costs and emissions.  
+- **🔍 Applied** – Reinforcement‑learning models forecast heat dynamics, tuning HVAC settings in real time.  
+- **📊 Efficiency** – ~40% cut in cooling energy, with minor compute overhead.  
+- **🚀 Result** – Major cost savings, slashed carbon footprint, new green‑cloud benchmark.
 
 ---
 
-<details>
-<summary>2. 🎯 <strong style="color:#DB4437">Spotify Migration to Google Cloud Platform</strong></summary>
-
-- ⚙️ **Problem** – Spotify’s on‑premises setup couldn’t keep pace with explosive user growth, slowing feature rollout.  
-- 🔍 **Applied algorithms/data structures** – Distributed data pipelines using Pub/Sub, Dataflow, and BigQuery; scalable sharding strategies.  
-- 📊 **Efficiency & trade‑offs** – Handled hundreds of petabytes seamlessly; migration cost vs. accelerated development velocity.  
-- 🚀 **Result** – Rapid feature delivery, improved reliability for 250 M+ users, and freed engineering focus for product innovation.
-
-</details>
+### 🎯 <span style="color:#DB4437">2. Spotify Migration to Google Cloud Platform</span>  
+- **⚙️ Problem** – On‑prem servers couldn’t scale with Spotify’s explosive growth, throttling feature releases.  
+- **🔍 Applied** – Distributed pipelines (Pub/Sub, Dataflow, BigQuery) and smart data sharding.  
+- **📊 Efficiency** – Seamless handling of hundreds of PB; invest‑vs‑velocity trade‑off paid off.  
+- **🚀 Result** – Faster updates, rock‑solid reliability for 250 M+ users, freed dev teams for innovation.
 
 ---
 
-<details>
-<summary>3. 🎯 <strong style="color:#F4B400">Googlenomics: Generalized Second‑Price Auction</strong></summary>
-
-- ⚙️ **Problem** – Early online ad auctions led to inefficient pricing and poor ad relevance.  
-- 🔍 **Applied algorithms/data structures** – Generalized Second‑Price auction combined with Quality Score, leveraging priority queues and ranking algorithms.  
-- 📊 **Efficiency & trade‑offs** – Balanced auction complexity with real‑time bidding speed; ensured fair pricing without latency spikes.  
-- 🚀 **Result** – Boosted ad relevance, increased click‑through rates, and scaled AdWords revenue into the tens of billions annually.
-
-</details>
+### 🎯 <span style="color:#F4B400">3. Googlenomics: Generalized Second‑Price Auction</span>  
+- **⚙️ Problem** – Early ad auctions delivered poor pricing and relevance.  
+- **🔍 Applied** – Generalized second‑price auction + Quality Score, using priority queues & ranking algos.  
+- **📊 Efficiency** – Balanced auction complexity against real‑time bid speed.  
+- **🚀 Result** – Higher ad relevance, CTR boost, tens of billions in annual AdWords revenue.
 
 ---
 
-<details>
-<summary>4. 🎯 <strong style="color:#0F9D58">Google Crisis Response</strong></summary>
-
-- ⚙️ **Problem** – During disasters, fragmented information hampered relief coordination and public safety.  
-- 🔍 **Applied algorithms/data structures** – Unified data ingestion pipelines, geospatial indexing, and real‑time alert propagation.  
-- 📊 **Efficiency & trade‑offs** – Instant access to trusted info vs. the overhead of integrating heterogeneous feeds.  
-- 🚀 **Result** – Centralized Person Finder, Public Alerts, Crisis Maps and SOS Alerts — empowering millions to get timely help.
-
-</details>
+### 🎯 <span style="color:#0F9D58">4. Google Crisis Response</span>  
+- **⚙️ Problem** – Disaster info scattered across sites, slowing relief efforts.  
+- **🔍 Applied** – Unified data ingest, geospatial indexing, real‑time alerting in Search & Maps.  
+- **📊 Efficiency** – Instant, trusted updates vs. integration overhead.  
+- **🚀 Result** – Centralized Person Finder, Public/SOS Alerts & Crisis Maps—helped millions in Haiti, Tōhoku, wildfires & floods.
 
 ---
 
-<details>
-<summary>5. 🎯 <strong style="color:#AB47BC">Google Photos: Tackling AI Bias</strong></summary>
+### 🎯 <span style="color:#AB47BC">5. Google Photos: Tackling AI Bias</span>  
+- **⚙️ Problem** – Misclassification of Black faces as “gorillas” revealed model bias.  
+- **🔍 Applied** – Expanded training set diversity, fairness‑aware metrics, active learning loops.  
+- **📊 Efficiency** – Extra labeling cost vs. robust, equitable recognition.  
+- **🚀 Result** – Removed biased labels, boosted model accuracy across demographics, reinforced Google’s AI ethics.
 
-- ⚙️ **Problem** – Misclassification of user photos exposed serious biases in image‑recognition models.  
-- 🔍 **Applied algorithms/data structures** – Expanded training datasets, implemented fairness‑aware evaluation metrics, and active‑learning loops.  
-- 📊 **Efficiency & trade‑offs** – Additional data labeling effort vs. drastically improved model robustness and user trust.  
-- 🚀 **Result** – Removed biased labels, enhanced accuracy across demographics, and set new ethical AI guidelines company‑wide.
-
-</details>
+---
 
 
 
