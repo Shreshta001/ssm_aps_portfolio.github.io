@@ -18,9 +18,9 @@
 ## 🛠️ Technical Skills
 
 - **Languages & Frameworks**:  
-  `C/C++`, `Python`, `JavaScript`, `React.js`, `Next.js`, `Node.js`, `Express.js`  
+  `C/C++`, `Python`, `HTML`, `CSS`, `JS`, `Node.js`, `Express.js`  
 - **Databases**:  
-  `MySQL`  
+  `MySQL` 
 - **Tools & Platforms**:  
   `Git`, `GitHub`, `VS Code`
 
