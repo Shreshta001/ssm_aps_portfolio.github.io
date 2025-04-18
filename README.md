@@ -6,25 +6,17 @@
 
 ### 🧾 **Portfolio Details**
 
-👩‍🎓 Student        : *Shreshta S. Majalikar (SSM)*
-<br/>
-🎓 SRN             : *01fe22bcs277*
-<br/>
-🔰 Course Name     : *Algorithmic Problem Solving*
-<br/>
-🆔 Course Code     : *24ECSE309*
-<br/>
-👨‍🏫 Instructor     : *Prakash Hegade (PH)*
-<br/>
-🌐 Domain          : *Google*
-<br/>
-🏛️ University      : *KLE Technological University, Hubballi*
-<br/>
+**👩‍🎓 Student**        : **Shreshta S. Majalikar (SSM)** <br/>
+**🎓 SRN**             : **01fe22bcs277** <br/>
+**🔰 Course Name**     : **Algorithmic Problem Solving** <br/>
+**🆔 Course Code**     : **24ECSE309** <br/>
+**👨‍🏫 Instructor**     : **Prakash Hegade (PH)** <br/>
+**🌐 Domain**          : **Google** <br/>
+**🏛️ University**      : **KLE Technological University, Hubballi** <br/>
 
 
 
-
-> **Driven to Elevate Visions through a quest of innovation, creation, and exploration.**
+> **__D__riven to __E__levate __V__isions through a __Q__uest of innovation, creation, and exploration.**
 
 ---
 
