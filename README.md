@@ -68,8 +68,7 @@
 <p align="center">
   <img src="https://www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="Google Logo" width="240"/>
   <br><br>
-  <img src="https://i.imgur.com/oAjxz7y.png" alt="Google Ecosystem Overview" width="700"/>
-  <br>
+ 
   <em>🧭 Glimpse into Google's Massive Service Ecosystem</em>
 </p>
 
