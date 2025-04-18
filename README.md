@@ -3,8 +3,7 @@
 > *"Driven to Elevate Visions through a quest of innovation, creation, and exploration."*
 
 ---
-
-### 🧾 **Portfolio Details**
+## 🧾 Portfolio Details
 
 **👩‍🎓 Student**        : **Shreshta S. Majalikar (SSM)** <br/>
 **🎓 SRN**             : **01fe22bcs277** <br/>
@@ -14,43 +13,53 @@
 **🌐 Domain**          : **Google** <br/>
 **🏛️ University**      : **KLE Technological University, Hubballi** <br/>
 
+---
 
 ## 🛠️ Technical Skills
 
-- **Languages & Frameworks**: C/C++, Python, JavaScript, React.js, Next.js, Node.js, Express.js  
-- **Databases**: MySQL  
-- **Tools**: Git, GitHub, VS Code
+- **Languages & Frameworks**:  
+  `C/C++`, `Python`, `JavaScript`, `React.js`, `Next.js`, `Node.js`, `Express.js`  
+- **Databases**:  
+  `MySQL`  
+- **Tools & Platforms**:  
+  `Git`, `GitHub`, `VS Code`
 
 ---
 
 ## 💼 Experience
 
-### 🧠 **NVIDIA – Mini Project Intern** *(Oct 2024 – Jan 2025, Remote)*  
-- Built a **multimodal transformer subsystem** for image difference estimation using **ViT** and **BDD100K**.  
-- Created a custom dataset using **Mini-InternVL VLM**, formulating ground truth via structured prompts.
+### 🧠 NVIDIA – Mini Project Intern *(Oct 2024 – Jan 2025, Remote)*  
+- Developed a **multimodal transformer subsystem** for image difference estimation.  
+- Used **Vision Transformer (ViT)** models on **BDD100K** dataset.  
+- Curated custom data using **Mini-InternVL VLM**, structured through prompt engineering.
 
-### 🚦 **NVIDIA – Minor Project Intern** *(Jan 2025 – Present, Remote)*  
-- Designing a **YOLOX-based traffic light detection system** to improve accuracy in autonomous vehicles.  
-- Evaluating demosaicing, white balance, and color shift effects using the **Bosch Small Traffic Lights Dataset**.
+### 🚦 NVIDIA – Minor Project Intern *(Jan 2025 – Present, Remote)*  
+- Working on a **YOLOX-based traffic light detection** system for autonomous driving.  
+- Evaluating **demosaicing algorithms**, **white balance**, and **color correction** on **Bosch Traffic Light Dataset**.
 
 ---
 
 ## 🧪 Projects
 
 ### 🚏 NEXUS: Metropolitan Commute Optimizer *(Sep 2023 – Nov 2023)*  
-**Tech:** C++, Graph Algorithms  
-- Optimized city transport using **Dijkstra, Kruskal, Floyd-Warshall** for shortest paths and flow efficiency.
-
-### 📋 ISA Management System *(Dec 2024 – Jan 2025)*  
-**Tech:** ReactJS, Express, MySQL  
-- Auto-generated seating plans and question paper counts with options to export data to **CSV/HTML**.
-
-### 🧠 AI-Generated Face Detection *(Feb 2025)*  
-**Tech:** ML, DL, RvAI  
-- Trained a model to detect AI-generated faces; presented at **CRM 2025**, published by **Springer**.
+**Tech:** `C++`, `Graph Algorithms`  
+- Solved urban commute problems using **Dijkstra**, **Kruskal**, and **Floyd-Warshall** algorithms.
 
 ---
 
+### 📋 ISA Management System *(Dec 2024 – Jan 2025)*  
+**Tech:** `ReactJS`, `Express`, `MySQL`  
+- Built a full-stack solution for internal assessment automation.  
+- Enabled automated seating plans and downloadable reports in **CSV/HTML**.
+
+---
+
+### 🧠 AI-Generated Face Detection *(Feb 2025)*  
+**Tech:** `Machine Learning`, `Deep Learning`, `RvAI Toolkit`  
+- Developed a classifier to detect AI-generated human faces.  
+- Presented at **CRM 2025** conference and **published by Springer**.
+
+---
 
 
 > **D**riven to **E**levate **V**isions through a **Q**uest of innovation, creation, and exploration.
