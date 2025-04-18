@@ -1,11 +1,2 @@
-title: DevQuest
-description: Driven to Elevate Visions through a quest of innovation, creation, and exploration.
-remote_theme: just-the-docs/just-the-docs
-
-# Optional extras for customization
-color_scheme: light
-logo: /assets/images/devquest-logo.png
-search_enabled: true
-heading_anchors: true
-
+theme:jekyll-theme-cayman
 
