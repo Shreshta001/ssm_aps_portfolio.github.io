@@ -1,0 +1,19 @@
+/* File: assets/css/custom.scss */
+
+/* Global font size */
+:root {
+  --body-font-size: 18px; /* Default is 16px — feel free to bump to 20px */
+}
+
+/* Optional: increase headings too */
+h1 {
+  font-size: 2.2rem !important;
+}
+
+h2 {
+  font-size: 1.8rem !important;
+}
+
+h3 {
+  font-size: 1.5rem !important;
+}
