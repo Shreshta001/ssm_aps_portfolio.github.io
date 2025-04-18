@@ -6,7 +6,7 @@
 
 ### 🧾 **Portfolio Details**
 
-👩‍🎓 Student        : *Shreshta S. Majalikar*
+👩‍🎓 Student        : *Shreshta S. Majalikar (SSM)*
 <br/>
 🎓 SRN             : *01fe22bcs277*
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 🆔 Course Code     : *24ECSE309*
 <br/>
-👨‍🏫 Instructor     : *Prakash Hegade (PH) *
+👨‍🏫 Instructor     : *Prakash Hegade (PH)*
 <br/>
 🌐 Domain          : *Google*
 <br/>
