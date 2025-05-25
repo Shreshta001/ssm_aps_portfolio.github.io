@@ -7,20 +7,20 @@
 ---
 ## 🧾 Portfolio Details
 
-**👩‍🎓 Student**        : **Shreshta S. Majalikar (SSM)** <br/>
-**🎓 SRN**             : **01fe22bcs277** <br/>
-**🔰 Course Name**     : **Algorithmic Problem Solving** <br/>
-**🆔 Course Code**     : **24ECSE309** <br/>
-**👨‍🏫 Instructor**     : **Prakash Hegade (PH)** <br/>
-**🌐 Domain**          : **Google** <br/>
-**🏛️ University**      : **KLE Technological University, Hubballi** <br/>
+**👩‍🎓 Student**        : *Shreshta S. Majalikar (SSM)* <br/>
+**🎓 SRN**             : *01fe22bcs277* <br/>
+**🔰 Course Name**     : *Algorithmic Problem Solving* <br/>
+**🆔 Course Code**     : *24ECSE309* <br/>
+**👨‍🏫 Instructor**     : *Prakash Hegade (PH)* <br/>
+**🌐 Domain**          : *Google* <br/>
+**🏛️ University**      : *KLE Technological University, Hubballi* <br/>
 
 ---
 
 ## 🛠️ Technical Skills
 
 - **Languages & Frameworks**:  
-  `C/C++`, `Python`, `HTML`, `CSS`, `JS`, `Node.js`, `Express.js`  
+  `C/C++`, `Python`, `HTML`, `CSS`, `JS`, `Node.js`, `Express.js`,`React`
 - **Databases**:  
   `MySQL` 
 - **Tools & Platforms**:  
@@ -37,7 +37,7 @@
 
 ### 🚦 NVIDIA – Minor Project Intern *(Jan 2025 – Present, Remote)*  
 - Applied a **custom demosaicing pipeline** on **RCCB sensor images** using a **CNN-based channel estimation** approach, combined with **Color Correction Matrix (CCM)** and spatial reconstruction techniques.  
-- Building a **YOLOX-based traffic light detection system** using the **Bosch Small Traffic Lights Dataset**.  
+- Building a **YOLOX-based traffic light detection system** with help of facebook research's Detectron2 model using the **Bosch Small Traffic Lights Dataset**.  
 - Evaluating **model performance under varying lighting conditions** using data **augmentation techniques** to simulate real-world challenges.
 
 
@@ -46,8 +46,8 @@
 ## 🧪 Projects
 
 ### 🚏 NEXUS: Metropolitan Commute Optimizer *(Sep 2023 – Nov 2023)*  
-**Tech:** `C++`, `Graph Algorithms`  
-- Solved urban commute problems using **Dijkstra**, **Kruskal**, and **Floyd-Warshall** algorithms.
+**Tech:** `C++`
+- Solved urban commute problems using **Dijkstra**, **Kruskal**, and **Floyd-Warshall** algorithms and variety of other Data Structures and Algorithms.
 
 ---
 
@@ -85,7 +85,7 @@ And what powers this massive ecosystem? 🤯
 
 ---
 
-### 📦 **Google’s Universe of Services**
+<!--### 📦 **Google’s Universe of Services**
 > *(A curated list of major services under the Google umbrella — structured, spaced, and sparkling ✨)*
 
 <br/>
@@ -142,6 +142,28 @@ And what powers this massive ecosystem? 🤯
 
 ### 🎓 **Learning & Education**
 - **Google Classroom** 🎓 – Organize classes, assignments, and grades easily.
+-->
+
+
+## 🚀 Google’s Universe of Services  
+> *(A curated, condensed, and clean list of Google’s major offerings — for your README.md 🔥)*
+
+| 🌍 **Category**             | 🚀 **Top Services**                                                                 |
+|----------------------------|--------------------------------------------------------------------------------------|
+| 🔍 **Search & Discovery**   | Google Search, Maps, Translate, News, Lens                                           |
+| 📧 **Communication**        | Gmail, Google Meet, Chat, Calendar, Voice                                            |
+| 📂 **Productivity Tools**   | Drive, Docs, Sheets, Slides, Forms, Keep, Jamboard                                   |
+| 🎬 **Media & Entertainment**| YouTube, YouTube Music, Google TV, Podcasts, Stadia *(shut down but notable)*        |
+| 💳 **Payments**             | Google Pay, Wallet, Shopping, Google Store                                           |
+| ☁️ **Cloud & AI**           | Google Cloud (GCP), Gemini (Bard), Assistant, TensorFlow                             |
+| 🧠 **Developer Tools**      | Firebase, Android Studio, Google Domains, Chrome DevTools                            |
+| 📱 **Mobile & OS**          | Android, Wear OS, Chrome OS, Google Pixel Apps                                       |
+| 🎓 **Education**            | Classroom, Google Scholar, Assignments                                               |
+| 🧪 **Experiments / Labs**   | Google Arts & Culture, Google Earth, Experiments with Google                         |
+
+---
+
+
 
 ---
 ## ⚙️ Why DSA & Algorithmic Problem Solving Matter
