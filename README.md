@@ -1,4 +1,6 @@
-# 🚀 **DevQuest**
+<h1 style="font-size: 60px; font-weight: 900; color: #FF5722; text-shadow: 2px 2px #333;">
+  🚀 DevQuest
+</h1>
 
 > _**D**riven to **E**levate **V**isions through a **Q**uest of innovation, creation, and exploration._
 
