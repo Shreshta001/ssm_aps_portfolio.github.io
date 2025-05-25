@@ -85,66 +85,6 @@ And what powers this massive ecosystem? 🤯
 
 ---
 
-<!--### 📦 **Google’s Universe of Services**
-> *(A curated list of major services under the Google umbrella — structured, spaced, and sparkling ✨)*
-
-<br/>
----
-
-### 🔍 **Search & Discovery**
-- **Google Search** 🌐 – Your gateway to the world’s information.
-- **Google Maps** 🗺️ – Navigate the planet with precision and ease.
-- **Google Translate** 🌍 – Break language barriers instantly.
-- **Google News** 📰 – Curated headlines from around the globe.
-- **Google Lens** 🔎 – Visual search that sees the world like you do.
-
----
-
-### 📧 **Communication & Collaboration**
-- **Gmail** 📬 – Fast, secure, and smart email.
-- **Google Meet** 🎥 – High-quality video conferencing.
-- **Google Chat** 💬 – Smart messaging for teams and individuals.
-- **Google Calendar** 📅 – Plan, schedule, and never miss a beat.
-
----
-
-### 📂 **Productivity & Cloud Tools**
-- **Google Drive** ☁️ – Store, sync, and share your files.
-- **Google Docs** 📝 – Real-time collaborative writing.
-- **Google Sheets** 📊 – Analyze and visualize data together.
-- **Google Slides** 🎞️ – Beautiful presentations, made easy.
-- **Google Forms** 🧾 – Surveys, polls, and quizzes in seconds.
-- **Google Keep** 🗒️ – Notes and lists, synced across devices.
-- **Google Workspace** 🧑‍💻 – Your productivity suite in one place.
-
----
-
-### 🎬 **Media & Entertainment**
-- **YouTube** 📹 – Watch, upload, and connect through videos.
-- **YouTube Music** 🎧 – Music streaming tailored to you.
-- **Google Podcasts** 🎙️ – Discover and listen to top podcasts.
-
----
-
-### 💳 **Payments & Shopping**
-- **Google Pay** 💸 – Fast, secure digital payments.
-- **Google Wallet** 👛 – All your cards, tickets, and IDs in one app.
-- **Google Shopping** 🛍️ – Smart product discovery and deals.
-
----
-
-### ☁️ **Cloud & AI**
-- **Google Cloud Platform (GCP)** ☁️ – Scalable cloud services for devs and enterprises.
-- **Gemini (formerly Bard)** 🤖 – Conversational AI and productivity assistant.
-- **Google Assistant** 🎙️ – Voice-powered help, wherever you go.
-
----
-
-### 🎓 **Learning & Education**
-- **Google Classroom** 🎓 – Organize classes, assignments, and grades easily.
--->
-
-
 ## 🚀 Google’s Universe of Services  
 > *(A curated, condensed, and clean list of Google’s major offerings — for your README.md 🔥)*
 
@@ -328,3 +268,106 @@ Used **Edit Distance (Levenshtein)** and **Trie** for spelling correction and su
 
 
 > 👣 **Let DevQuest continue...** Stay tuned for deeper case studies and solutions in this exploration of how algorithms quietly shape the tech we rely on daily.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--commeneted-->
+<!--### 📦 **Google’s Universe of Services**
+> *(A curated list of major services under the Google umbrella — structured, spaced, and sparkling ✨)*
+
+<br/>
+---
+
+### 🔍 **Search & Discovery**
+- **Google Search** 🌐 – Your gateway to the world’s information.
+- **Google Maps** 🗺️ – Navigate the planet with precision and ease.
+- **Google Translate** 🌍 – Break language barriers instantly.
+- **Google News** 📰 – Curated headlines from around the globe.
+- **Google Lens** 🔎 – Visual search that sees the world like you do.
+
+---
+
+### 📧 **Communication & Collaboration**
+- **Gmail** 📬 – Fast, secure, and smart email.
+- **Google Meet** 🎥 – High-quality video conferencing.
+- **Google Chat** 💬 – Smart messaging for teams and individuals.
+- **Google Calendar** 📅 – Plan, schedule, and never miss a beat.
+
+---
+
+### 📂 **Productivity & Cloud Tools**
+- **Google Drive** ☁️ – Store, sync, and share your files.
+- **Google Docs** 📝 – Real-time collaborative writing.
+- **Google Sheets** 📊 – Analyze and visualize data together.
+- **Google Slides** 🎞️ – Beautiful presentations, made easy.
+- **Google Forms** 🧾 – Surveys, polls, and quizzes in seconds.
+- **Google Keep** 🗒️ – Notes and lists, synced across devices.
+- **Google Workspace** 🧑‍💻 – Your productivity suite in one place.
+
+---
+
+### 🎬 **Media & Entertainment**
+- **YouTube** 📹 – Watch, upload, and connect through videos.
+- **YouTube Music** 🎧 – Music streaming tailored to you.
+- **Google Podcasts** 🎙️ – Discover and listen to top podcasts.
+
+---
+
+### 💳 **Payments & Shopping**
+- **Google Pay** 💸 – Fast, secure digital payments.
+- **Google Wallet** 👛 – All your cards, tickets, and IDs in one app.
+- **Google Shopping** 🛍️ – Smart product discovery and deals.
+
+---
+
+### ☁️ **Cloud & AI**
+- **Google Cloud Platform (GCP)** ☁️ – Scalable cloud services for devs and enterprises.
+- **Gemini (formerly Bard)** 🤖 – Conversational AI and productivity assistant.
+- **Google Assistant** 🎙️ – Voice-powered help, wherever you go.
+
+---
+
+### 🎓 **Learning & Education**
+- **Google Classroom** 🎓 – Organize classes, assignments, and grades easily.
+-->
