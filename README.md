@@ -1,4 +1,4 @@
-# 🚀 DevQuest
+#🚀 DevQuest
 
 > _**D**riven to **E**levate **V**isions through a **Q**uest of innovation, creation, and exploration._
 
